@@ -177,6 +177,12 @@ The published workbook was produced from the live file with an XML-level script,
 
 Screenshots are rendered from the sample file in LibreOffice, so chart colours differ slightly from Excel.
 
+## Related projects
+
+- [Garment PPC System](https://github.com/tanmaymandal0207-cmyk/garment-ppc-system): order and machine capacity planning for a garment manufacturer
+- [Inventory Reconciliation](https://github.com/tanmaymandal0207-cmyk/inventory-reconciliation): challan vs stock reconciliation, Δ 0 tie-out every year
+- [SQL Business Problems](https://github.com/tanmaymandal0207-cmyk/sql-business-problems): problem → SQL → validation case studies
+
 ---
 
 **Author:** Tanmay Mandal, Business Analysis · Operations · ERP
