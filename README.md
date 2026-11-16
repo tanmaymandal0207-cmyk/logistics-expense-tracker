@@ -163,6 +163,7 @@ The published workbook was produced from the live file with an XML-level script,
 
 ```
 ├── README.md
+├── CHANGELOG.md     # release notes, review fixes, maintenance
 ├── workbook/
 │   └── FTL_Logistics_Expense_Tracker_SAMPLE.xlsx
 ├── docs/
@@ -176,6 +177,10 @@ The published workbook was produced from the live file with an XML-level script,
 ```
 
 Screenshots are rendered from the sample file in LibreOffice, so chart colours differ slightly from Excel.
+
+## Changelog
+
+Release notes are in [CHANGELOG.md](CHANGELOG.md) (current release: v1.0, 8 Oct 2026).
 
 ## Related projects
 
