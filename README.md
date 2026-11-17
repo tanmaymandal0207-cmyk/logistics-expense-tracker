@@ -161,7 +161,7 @@ The published workbook was produced from the live file with an XML-level script,
 
 ## Repository structure
 
-```
+```text
 ├── README.md
 ├── CHANGELOG.md     # release notes, review fixes, maintenance
 ├── workbook/
