@@ -17,7 +17,8 @@
 <a href="#dashboard-mechanics">Dashboard</a> ·
 <a href="#validation">Validation</a> ·
 <a href="#how-to-use">How to use</a> ·
-<a href="#repository-structure">Structure</a>
+<a href="#repository-structure">Structure</a> ·
+<a href="#related-projects">Related</a>
 </p>
 
 ---
