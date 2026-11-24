@@ -1,5 +1,7 @@
 # Data dictionary
 
+[← Back to README](../README.md)
+
 **Type:** `In` = typed input (blue font) · `Calc` = formula (black font, do not overwrite).
 Tables start at row 6 (header), with data from row 7. Rows 1–4 hold header KPIs.
 
