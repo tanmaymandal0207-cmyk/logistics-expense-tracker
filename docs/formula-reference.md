@@ -1,5 +1,7 @@
 # Formula reference
 
+[← Back to README](../README.md)
+
 Key formulas behind the KPIs and the dashboard, copied from the workbook.
 
 ---
